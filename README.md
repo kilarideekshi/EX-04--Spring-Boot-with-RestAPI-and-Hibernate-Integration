@@ -99,3 +99,11 @@ public class MovieController {
         }).orElse(ResponseEntity.notFound().build());
     }
 }
+
+# OUTPUT:
+<img width="1154" height="691" alt="image" src="https://github.com/user-attachments/assets/614c0684-3e65-4b28-ad00-f005ecb25249" />
+
+# RESULT:
+
+Thus,the Spring Boot application to store and retrieve data from a Movies database using Object Relational Mapping (ORM) with Hibernate and expose it via REST APIs implemented and executed successfully.
+
